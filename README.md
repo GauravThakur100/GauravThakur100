@@ -14,7 +14,7 @@
 - ⚡ Fun fact **When I'm not coding, you can find me exploring new places, trying out different cuisines, or playing my favorite video games.**
 
 <h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/ee9f5387-4298-46aa-9460-8d4543f4e068.gif">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F4158705-Mobile-Development&psig=AOvVaw0js3CGp3NDccXF2yFEtuWr&ust=1720929543193000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJC4u6OQo4cDFQAAAAAdAAAAABAW">
 
 <p align="left">
 <a href="https://linkedin.com/in/gauravthakur10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauravthakur10" height="30" width="40" /></a>
