@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-<img src=""C:\Users\GAURAV\Downloads\mob-dev.gif"" alt="GIF" />
+<img src="mob-dev.gif" alt="GIF" />
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravthakur100&show_icons=true&locale=en&layout=compact" alt="gauravthakur100" /></p>
