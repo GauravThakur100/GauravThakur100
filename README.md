@@ -15,8 +15,13 @@
 <p align="left">
 <a href="https://linkedin.com/in/gauravthakur10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauravthakur10" height="30" width="40" /></a>
 <a href="https://kaggle.com/ergauravthakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ergauravthakur" height="30" width="40" /></a>
+  
+</p>
+<p align="center">
+<img src="mob-dev.gif" alt="GIF" />
 </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravthakur100&show_icons=true&locale=en&layout=compact" alt="gauravthakur100" /></p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
@@ -48,8 +53,4 @@
 </a> 
 </p>
 
-<p align="center">
-<img src="mob-dev.gif" alt="GIF" />
-</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravthakur100&show_icons=true&locale=en&layout=compact" alt="gauravthakur100" /></p>
