@@ -17,7 +17,7 @@
 <a href="https://kaggle.com/ergauravthakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ergauravthakur" height="30" width="40" /></a>
   
 </p>
-<p align="center">
+<p align="right">
 <img src="mob-dev.gif" alt="GIF" />
 </p>
 
